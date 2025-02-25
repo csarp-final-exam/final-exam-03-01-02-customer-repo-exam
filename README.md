@@ -1,6 +1,6 @@
-## **B)**
+## **B)** Repó
 
-## B) Vásárlók kezelése egy tároló osztályban
+##  Vásárlók kezelése egy tároló osztályban
 
 #### 1. feladat - Vásárlók tárolása és kezelése
 
