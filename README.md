@@ -5,20 +5,20 @@
 #### 1. feladat - Vásárlók tárolása és kezelése
 
 Készítsen egy osztályt, amely több vásárló tárolására alkalmas.
- * A vásárlók adatai közvetlenül **ne legyenek írhatók**, csak lekérdezhetők.
- * Az osztályban legyen lehetőség **új vásárló hozzáadására**.
+ * A vásárlók adatai közvetlenül ne legyenek írhatók, csak lekérdezhetők.
+ * Az osztályban legyen lehetőség új vásárló hozzáadására.
     * Ne lehessen két vásárlónak ugyanaz az email címe.
-    * Ha mégis megpróbálunk duplikált email címmel vásárlót hozzáadni, a rendszer **dobjon kivételt!**
-* Biztosítsa a vásárlók **törlését email cím alapján** lehetőséget.
-    * Ha az adott email cím nem létezik, **a rendszer dobjon kivételt!**
+    * Ha mégis megpróbálunk duplikált email címmel vásárlót hozzáadni, a rendszer dobjon kivételt!
+* Biztosítsa a vásárlók törlését email cím alapján lehetőséget.
+    * Ha az adott email cím nem létezik, a rendszer dobjon kivételt!
 
 ---
 
 #### 2. feladat - Vásárlók hozzáadása és törlése
 
-* **Vegye fel** Valér és a további négy vásárló adatait a vásárlókat tároló objektumba!
-* Írja ki a képernyőre **a tárolt vásárlók számát és adataikat**!
-* **Töröljön egy vásárlót** és írja ki újra a tárolt vásárlók számát!
+* Vegye fel Valér és a további négy vásárló adatait a vásárlókat tároló objektumba!
+* Írja ki a képernyőre a tárolt vásárlók számát és adataikat!
+* Töröljön egy vásárlót és írja ki újra a tárolt vásárlók számát!
 
 ---
 
